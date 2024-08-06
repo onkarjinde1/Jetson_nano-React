@@ -1,0 +1,3 @@
+flask-server/venv/
+*.dylib
+*.so
